@@ -1,4 +1,5 @@
-CompareHSI
+# CompareHSI
+
 •	Helps user to calculate the Cumulative daily return and market value of their portfolio.
 
 •	Analysis user’s profile to perform portfolio optimization. 
@@ -35,10 +36,10 @@ We suggest to run the python code from a server. If you want to create a server 
 
 After you have set up the python code on a server, please change the link to your server link in "Selector.js" and "SharpeRatio.js" in the fronted folder. 
 
-In the folder name "frontend", Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+In the folder name "web", Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
 ```bash
-cd fonrtend
+cd web
 npm install
 ```
 
