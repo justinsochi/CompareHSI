@@ -1,0 +1,10 @@
+{
+    // See http://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "0.1.0",
+	"command":"python",
+	//"command":"D:\\Python27\\python.exe",
+	"isShellCommand": true,
+	//"args": ["${file}"], //这种写法不能编译
+	"args": ["hello.py"],
+}
